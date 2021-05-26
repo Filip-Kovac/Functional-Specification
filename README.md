@@ -1,4 +1,4 @@
-# Seznam úkolů #
+# To-Do list #
 ## Verze 1.0 ##
 ## 15. 05. 2021 ##
 ## Filip Kováč ##
